@@ -1,0 +1,46 @@
+.navhead {
+    background-color: hsl(0, 76%, 50%);
+}
+
+.navhead .navbar-nav>li>a {
+    color: red;
+}
+
+.navhead .navbar-brand {
+    color: red;
+}
+
+.navhead {
+    border-radius: 0px;
+    border: none;
+    margin-bottom: 0px;
+}
+
+.pizza-img {
+    margin-bottom: 10px;
+}
+
+.about-pizza {
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+
+.abt-pizza {
+    padding-bottom: 2rem;
+}
+
+.typ-pizza {
+    padding-bottom: 2rem;
+}
+
+.pizza-footer{
+    padding-top: 1rem;
+   
+
+}
+
+.main-footer{
+    background-color: hsl(0, 76%, 50%);
+
+}
+
